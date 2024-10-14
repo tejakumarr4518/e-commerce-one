@@ -1,0 +1,9 @@
+function Home(){
+    return(
+        <div className="container mt-5  ">
+            <h2 className="text-danger fs-1 fw-bold font-arial">Home</h2>
+            <p className="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis ut, ducimus quam porro saepe quod obcaecati numquam doloremque laborum qui accusamus unde officia quia rerum error maiores libero, voluptatibus soluta repellendus quo inventore quidem quae alias. Accusantium perspiciatis nesciunt nihil obcaecati ex, quibusdam quo, ducimus quisquam aliquid voluptates mollitia distinctio consequuntur rem facere id fugit in nam error cumque odio dolorum dolore? Sint quos laboriosam vitae, voluptatem a aliquam provident eum optio, expedita deleniti nemo labore iste? Dolore veritatis delectus quo, ratione architecto repellendus dolores sunt minus voluptas maxime laudantium corrupti reprehenderit suscipit omnis tenetur cum repellat ut eligendi deserunt consectetur nisi corporis voluptates qui. Aspernatur deleniti corrupti voluptas, eos, aliquam, provident quae totam debitis nisi voluptates soluta! Dignissimos tempora quas ipsum ratione quo. Cupiditate provident asperiores rerum illo eaque, explicabo doloribus a animi obcaecati sunt facilis similique culpa iste eos assumenda voluptate debitis aperiam eius maxime eum! Animi deleniti cupiditate sit, nam aliquam tenetur! Natus perferendis nam eum reprehenderit nemo ab, delectus ducimus enim, culpa obcaecati similique ea, debitis excepturi aspernatur alias consectetur ipsa sed mollitia quo ad odit facilis veniam tempore. Adipisci, veritatis maxime sed debitis vitae enim exercitationem minus aliquid nesciunt recusandae at maiores assumenda perspiciatis. Eius!</p>
+        </div>
+    )
+}
+export default Home;

@@ -1,0 +1,54 @@
+.electronicsContainer{
+    padding:50px;
+}
+.electronicsContainer h2{
+    color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:40px;
+    font-weight:bold;
+}
+.electronicsContainer p{
+    margin-top:10px;
+}
+.electronicbgimages{
+    width:100%;
+    height:200px;
+  background-color: blue;
+  margin:30px cover;
+  animation-name:bgimages;
+  animation-iteration-count: infinite;
+  animation-duration:60s;
+  animation-delay: 5s;
+animation-fill-mode: both;
+  
+
+}
+@keyframes bgimages{
+    0%{
+        background-image:url("https://img.freepik.com/premium-photo/travel-gadgets-object-with-empty-tablet-screen-mock-up_39408-89.jpg?w=413");
+        background-repeat: no-repeat;
+        background-size:cover;
+        
+    }
+    30%{
+       background-image: url("https://img.freepik.com/free-photo/modern-stationary-collection-arrangement_23-2149309648.jpg?t=st=1727149849~exp=1727153449~hmac=3fdeb4b41a958c79d1714534448d6472d1f02bdf70fedf8aab453451c3b312d5&w=413");
+       background-repeat: no-repeat;
+       background-size:cover; 
+    }
+    50%{
+        background-image: url("https://img.freepik.com/free-photo/high-angle-smartphone-desk-with-headphones_23-2149404198.jpg?t=st=1727149947~exp=1727153547~hmac=3399800957937056169ae6484b4dae4587805c6ae07f9d0acbff146c5857fc2d&w=413");
+        background-repeat: no-repeat;
+        background-size:cover; 
+    }
+    75%{
+        background-image: url("https://img.freepik.com/free-photo/modern-stationary-collection-arrangement_23-2149309649.jpg?t=st=1727149997~exp=1727153597~hmac=9ac7d7180ada9b750aa27f89d705cea914a539c0761c9b846e8b3499337e60e9&w=413");
+        background-repeat: no-repeat;
+        background-size:cover; 
+    }
+    100%{
+        background-image: url("https://img.freepik.com/premium-photo/computer-peripherals-laptop-accessories-white-wooden-background_392895-553372.jpg?w=413");
+        background-repeat: no-repeat;
+        background-size:cover; 
+    }
+}
+

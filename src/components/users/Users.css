@@ -1,0 +1,12 @@
+.userscontainer{
+        padding: 10px;
+}
+.userscontainer h2 p{
+    margin:20px 0px;
+}
+.userContainerStyle{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+
+}
