@@ -28,6 +28,7 @@ import Personal from "./components/details/Personal";
 
 // import Users from "./components/users/Users";
 function App(){
+  console.log('data');
   return( <div>
       {/* <Users/> */}
       {/* <Myuser/> */}
